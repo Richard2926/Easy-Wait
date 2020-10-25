@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714570374809",
+    "firebase_url": "https://e-wait-hackgt.firebaseio.com",
+    "project_id": "e-wait-hackgt",
+    "storage_bucket": "e-wait-hackgt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714570374809:android:339fb804a574fb0bd7e208",
+        "android_client_info": {
+          "package_name": "com.initial.e_wait"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714570374809-u3ru42v87ogjv6u69naj4s6ptdh2opdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyaGaqaXkfnbIMp5S5Hun7GpiqXJYcBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714570374809-u3ru42v87ogjv6u69naj4s6ptdh2opdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
